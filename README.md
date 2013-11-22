@@ -1,4 +1,4 @@
 temperatureConverter
 ====================
 
-Temperature Converter project for codepath
+Temperature Converter
